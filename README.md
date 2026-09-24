@@ -49,6 +49,8 @@ To manage those incidents or suggested improvements with respect to the vocabula
 the guides provided in [Issues Management](https://github.com/nombre-repositorio/wiki/issues-management) to
 generate an issue (work in progress)
 
-# Funding
+# Acknowledgements
 
-Add here project funding and needed images.
+This project has been funded by the European Union's European Data Space far Smart Communities - DS4SSCC-DEP action under grant agreement no.101123342 in the Digital Europe Programme as part of the Piloting Programme in relation to the Project 2025-3-1 - IPPCP.
+
+<img height="100" alt="logo-color" src="https://github.com/user-attachments/assets/50712b11-ec2d-4947-8313-a35ffe94fd5d" /> <img src="https://images.squarespace-cdn.com/content/v1/63718ba2d90d0263d7fc1857/415e1aec-464c-4e5a-aa59-4e11ee295281/Logo+Color-min.png?format=300w" height="80"/> <img height="80" alt="EN_Co-fundedbytheEU_RGB_POS" src="https://github.com/user-attachments/assets/826c43cb-e649-436b-be92-1940da9d21fd" />
